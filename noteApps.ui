@@ -63,7 +63,7 @@ border-radius: 10px;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../Downloads/bookmark_FILL1_wght400_GRAD0_opsz48.png</pixmap>
+     <pixmap>img/bookmark_FILL1_wght400_GRAD0_opsz48.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -157,7 +157,7 @@ border-radius: 10px;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../Downloads/bookmark_FILL1_wght400_GRAD0_opsz48.png</pixmap>
+     <pixmap>img/bookmark_FILL1_wght400_GRAD0_opsz48.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -251,7 +251,7 @@ border-radius: 10px;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../Downloads/bookmark_FILL1_wght400_GRAD0_opsz48.png</pixmap>
+     <pixmap>img/bookmark_FILL1_wght400_GRAD0_opsz48.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -388,7 +388,7 @@ border-radius: 10px;</string>
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../Downloads/palette_FILL1_wght400_GRAD0_opsz48.png</pixmap>
+     <pixmap>img/palette_FILL1_wght400_GRAD0_opsz48.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -407,7 +407,7 @@ border-radius: 10px;</string>
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../Downloads/image_FILL1_wght400_GRAD0_opsz48.png</pixmap>
+     <pixmap>img/image_FILL1_wght400_GRAD0_opsz48.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -426,7 +426,7 @@ border-radius: 10px;</string>
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../Downloads/movie_FILL1_wght400_GRAD0_opsz48.png</pixmap>
+     <pixmap>img/movie_FILL1_wght400_GRAD0_opsz48.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -445,7 +445,7 @@ border-radius: 10px;</string>
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../Downloads/add_alert_FILL1_wght400_GRAD0_opsz48.png</pixmap>
+     <pixmap>img/add_alert_FILL1_wght400_GRAD0_opsz48.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -464,7 +464,7 @@ border-radius: 10px;</string>
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../Downloads/keyboard_voice_FILL1_wght400_GRAD0_opsz48.png</pixmap>
+     <pixmap>img/keyboard_voice_FILL1_wght400_GRAD0_opsz48.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -483,7 +483,7 @@ border-radius: 10px;</string>
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../Downloads/attach_file_add_FILL1_wght400_GRAD0_opsz48.png</pixmap>
+     <pixmap>img/attach_file_add_FILL1_wght400_GRAD0_opsz48.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -502,7 +502,7 @@ border-radius: 10px;</string>
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../Downloads/more_vert_FILL1_wght400_GRAD0_opsz48.png</pixmap>
+     <pixmap>img/more_vert_FILL1_wght400_GRAD0_opsz48.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -521,7 +521,7 @@ border-radius: 10px;</string>
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../Downloads/bookmark_FILL1_wght400_GRAD0_opsz48.png</pixmap>
+     <pixmap>img/bookmark_FILL1_wght400_GRAD0_opsz48.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -577,7 +577,7 @@ border-radius: 10px;</string>
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../Downloads/bookmark_FILL1_wght400_GRAD0_opsz48.png</pixmap>
+     <pixmap>img/bookmark_FILL1_wght400_GRAD0_opsz48.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -632,7 +632,7 @@ border:  2px solid #9C9900;</string>
    </property>
    <property name="styleSheet">
     <string notr="true">background-color: #000000;
-border-radius: 15px;</string>
+border-radius: 10px;</string>
    </property>
    <property name="frameShape">
     <enum>QFrame::StyledPanel</enum>

@@ -30,7 +30,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/imagesmode_FILL0_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/imagesmode_FILL0_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -49,7 +49,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/redo_FILL0_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/redo_FILL0_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -68,7 +68,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/more_vert_FILL1_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/more_vert_FILL1_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -87,7 +87,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/add_alert_FILL0_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/add_alert_FILL0_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -106,7 +106,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/bookmark_FILL1_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/bookmark_FILL1_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -128,7 +128,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/undo_FILL0_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/undo_FILL0_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -147,7 +147,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/palette_FILL0_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/palette_FILL0_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -186,7 +186,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/person_add_FILL0_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/person_add_FILL0_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -222,7 +222,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/archive_FILL0_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/archive_FILL0_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -274,7 +274,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/person_add_FILL0_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/person_add_FILL0_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -296,7 +296,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/undo_FILL0_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/undo_FILL0_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -315,7 +315,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/add_alert_FILL0_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/add_alert_FILL0_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -334,7 +334,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/archive_FILL0_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/archive_FILL0_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -353,7 +353,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/bookmark_FILL1_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/bookmark_FILL1_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -372,7 +372,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/redo_FILL0_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/redo_FILL0_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -391,7 +391,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/palette_FILL0_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/palette_FILL0_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -410,7 +410,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/imagesmode_FILL0_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/imagesmode_FILL0_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -429,7 +429,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../../Downloads/more_vert_FILL1_wght400_GRAD0_opsz48.png</pixmap>
+    <pixmap>img/more_vert_FILL1_wght400_GRAD0_opsz48.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
