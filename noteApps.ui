@@ -98,6 +98,9 @@ border-radius: 10px;
       <height>24</height>
      </rect>
     </property>
+    <property name="cursor">
+     <cursorShape>OpenHandCursor</cursorShape>
+    </property>
     <property name="styleSheet">
      <string notr="true">font: 10pt &quot;Arial&quot;;
 border:  2px solid #F7B59F;</string>
@@ -192,6 +195,9 @@ border-radius: 10px;
       <height>24</height>
      </rect>
     </property>
+    <property name="cursor">
+     <cursorShape>OpenHandCursor</cursorShape>
+    </property>
     <property name="styleSheet">
      <string notr="true">font: 10pt &quot;Arial&quot;;
 border:  2px solid #80AF71;</string>
@@ -285,6 +291,9 @@ border-radius: 10px;
       <width>75</width>
       <height>24</height>
      </rect>
+    </property>
+    <property name="cursor">
+     <cursorShape>OpenHandCursor</cursorShape>
     </property>
     <property name="styleSheet">
      <string notr="true">font: 10pt &quot;Arial&quot;;
@@ -602,7 +611,7 @@ border-radius: 10px;</string>
      <string>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic.</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="btn_edit">
+   <widget class="QPushButton" name="btn_edit4">
     <property name="geometry">
      <rect>
       <x>60</x>
@@ -610,6 +619,9 @@ border-radius: 10px;</string>
       <width>75</width>
       <height>24</height>
      </rect>
+    </property>
+    <property name="cursor">
+     <cursorShape>OpenHandCursor</cursorShape>
     </property>
     <property name="styleSheet">
      <string notr="true">background-color: #FDFB8A;
